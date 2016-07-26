@@ -16,29 +16,29 @@
         android:id="@+id/activity_main_insert_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Insert" />
+        android:text="Insertdata" />
 
     <Button
         android:id="@+id/activity_main_update_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Update" />
+        android:text="Updatedata" />
 
     <Button
         android:id="@+id/activity_main_delete_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="delete" />
+        android:text="deletedata" />
     <Button
         android:id="@+id/activity_main_query_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="query" />
+        android:text="querydata" />
 
     <Button
         android:id="@+id/activity_main_replace_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="replace" />
+        android:text="replacedata" />
 
 </LinearLayout>
